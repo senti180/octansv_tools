@@ -10,6 +10,7 @@ code {
 code:hover {
     font-weight: 999;
     font-size: 14.5px;
+    padding-bottom: 4.125px;
 }
 #name
 {

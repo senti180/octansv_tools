@@ -5,7 +5,7 @@
 
 > Élménykép segédlet
 
-### 🏠 [Elérés](tools.octans.hu)
+### 🏠 [Elérés](https://tools.octans.hu)
 
 ## Készítők
 
